@@ -1,0 +1,5 @@
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\obj\Debug\net7.0\lab2-LoRaWAN-TTN-virtual.csproj.AssemblyReference.cache
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\obj\Debug\net7.0\lab2-LoRaWAN-TTN-virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\obj\Debug\net7.0\lab2-LoRaWAN-TTN-virtual.AssemblyInfoInputs.cache
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\obj\Debug\net7.0\lab2-LoRaWAN-TTN-virtual.AssemblyInfo.cs
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\obj\Debug\net7.0\lab2-LoRaWAN-TTN-virtual.csproj.CoreCompileInputs.cache

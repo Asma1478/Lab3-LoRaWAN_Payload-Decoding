@@ -1,0 +1,149 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "lab2_mqtt-CS/1.0.0": {
+        "dependencies": {
+          "MQTTnet.AspNetCore": "4.1.4.563",
+          "MQTTnet.Extensions.ManagedClient": "4.1.4.563",
+          "MSTest.TestFramework": "3.0.2",
+          "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
+        },
+        "runtime": {
+          "lab2_mqtt-CS.dll": {}
+        }
+      },
+      "MQTTnet/4.1.4.563": {
+        "runtime": {
+          "lib/net6.0/MQTTnet.dll": {
+            "assemblyVersion": "4.1.4.563",
+            "fileVersion": "4.1.4.563"
+          }
+        }
+      },
+      "MQTTnet.AspNetCore/4.1.4.563": {
+        "dependencies": {
+          "MQTTnet": "4.1.4.563"
+        },
+        "runtime": {
+          "lib/net6.0/MQTTnet.AspNetCore.dll": {
+            "assemblyVersion": "4.1.4.563",
+            "fileVersion": "4.1.4.563"
+          }
+        }
+      },
+      "MQTTnet.Extensions.ManagedClient/4.1.4.563": {
+        "dependencies": {
+          "MQTTnet": "4.1.4.563"
+        },
+        "runtime": {
+          "lib/net6.0/MQTTnet.Extensions.ManagedClient.dll": {
+            "assemblyVersion": "4.1.4.563",
+            "fileVersion": "4.1.4.563"
+          }
+        }
+      },
+      "MSTest.TestFramework/3.0.2": {
+        "runtime": {
+          "lib/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.7923.2"
+          }
+        },
+        "resources": {
+          "lib/net6.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net6.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net6.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net6.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net6.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net6.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net6.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.7923.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab2_mqtt-CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MQTTnet/4.1.4.563": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gO9segUcKyQJcjV7w7OOdoAIkec7cUN65vEhYutbdWcj4rbtz/oL/RDvQVVbameXc6ChkjKx7/HbO+R8ejAUZQ==",
+      "path": "mqttnet/4.1.4.563",
+      "hashPath": "mqttnet.4.1.4.563.nupkg.sha512"
+    },
+    "MQTTnet.AspNetCore/4.1.4.563": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jbwxw2dmOmuJORbrxFi+rJKKvOvAkAFdASVtBoHEynUT7gwnpO7j+XzqScLHHU6JYYAMmXVb+p8zCQggcKEWvg==",
+      "path": "mqttnet.aspnetcore/4.1.4.563",
+      "hashPath": "mqttnet.aspnetcore.4.1.4.563.nupkg.sha512"
+    },
+    "MQTTnet.Extensions.ManagedClient/4.1.4.563": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QgrSDz12YnVUdbV5Wu1tP9sgTRUJbN4jZUsHC2Bh93tAPf+6vPaeq2WAEPoyJ7MjCadyGSW0n4QFyCjgNG8Odg==",
+      "path": "mqttnet.extensions.managedclient/4.1.4.563",
+      "hashPath": "mqttnet.extensions.managedclient.4.1.4.563.nupkg.sha512"
+    },
+    "MSTest.TestFramework/3.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cuCE5PXK0mX0FIfY3yzDNKFqCf2FTxZhdH/Bxg4662MAWZg4TnG3rYsFzNpPECrvn8Ry6lG8TaT2Ltg1NZkC6Q==",
+      "path": "mstest.testframework/3.0.2",
+      "hashPath": "mstest.testframework.3.0.2.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

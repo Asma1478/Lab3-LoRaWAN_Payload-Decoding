@@ -1,0 +1,70 @@
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\lab2_mqtt-CS.exe
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\lab2_mqtt-CS.deps.json
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\lab2_mqtt-CS.runtimeconfig.json
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\lab2_mqtt-CS.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\lab2_mqtt-CS.pdb
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\MQTTnet.AspNetCore.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.csproj.AssemblyReference.cache
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.AssemblyInfoInputs.cache
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.AssemblyInfo.cs
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.csproj.CoreCompileInputs.cache
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.csproj.CopyComplete
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\refint\lab2_mqtt-CS.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.pdb
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.genruntimeconfig.cache
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\obj\Debug\net7.0\ref\lab2_mqtt-CS.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\lab2-LoRaWAN-TTN-virtual\lab2_mqtt-CS\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\lab2_mqtt-CS.exe
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\lab2_mqtt-CS.deps.json
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\lab2_mqtt-CS.runtimeconfig.json
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\lab2_mqtt-CS.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\lab2_mqtt-CS.pdb
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\MQTTnet.AspNetCore.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.csproj.AssemblyReference.cache
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.AssemblyInfoInputs.cache
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.AssemblyInfo.cs
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.csproj.CoreCompileInputs.cache
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.csproj.CopyComplete
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\refint\lab2_mqtt-CS.dll
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.pdb
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\lab2_mqtt-CS.genruntimeconfig.cache
+C:\Users\Asma\OneDrive\Skrivbord\IoT\Lab3-LoRaWAN_Payload Decoding\lab2_mqtt-CS\obj\Debug\net7.0\ref\lab2_mqtt-CS.dll
